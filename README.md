@@ -2,9 +2,10 @@
 
 ### Screenshots
 
-![SS1](https://github.com/Himanshuiiit/extent-assessment/blob/main/src/components/images/SS1.png)
+![SS1](https://user-images.githubusercontent.com/76449638/205267855-7338876b-2581-4fbc-b540-ca1b68280b25.png)
 
-![SS2](https://github.com/Himanshuiiit/extent-assessment/blob/main/src/components/images/SS2.png)
+
+![SS2](https://user-images.githubusercontent.com/76449638/205267942-49500c61-9b93-430c-abef-3d22631a14dd.png)
 
 # Getting Started with Create React App
 
