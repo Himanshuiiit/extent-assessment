@@ -1,3 +1,11 @@
+## This is an assessment project
+
+### Screenshots
+
+![SS1](https://github.com/Himanshuiiit/extent-assessment/blob/main/src/components/images/SS1.png)
+
+![SS2](https://github.com/Himanshuiiit/extent-assessment/blob/main/src/components/images/SS2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
